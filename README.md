@@ -2,7 +2,7 @@
 April 2021
 
 ### Project Title
-Quoting Earp
+[Quoting Earp](https://twitter.com/quotingearp)
 
 ### Description
 This project was actually my very first contact with Python. 
